@@ -12,8 +12,9 @@
    
              background-color: #001721;
              background-size: 100%;
-             background-image: url(/bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
+             background-image: url(bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
              background-position: center;
+       bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg
 }
 
 body:hover{
@@ -24,7 +25,7 @@ body:hover{
 
   @keyframes bgs {
     0%{
-        background-image: url(/bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
+        background-image: url(bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
           background-position:relative;
           background-repeat: no-repeat;
           width:100%;
@@ -32,7 +33,7 @@ body:hover{
     }
 
     5%{
-        background-image: url(/bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
+        background-image: url(bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -42,7 +43,7 @@ body:hover{
 
 
     10%{
-        background-image: url(/bg/bgk/windows-11-dark-background-bloom-5k-5120x2880-8399\ \(1\).png);
+        background-image: url(bg/bgk/windows-11-dark-background-bloom-5k-5120x2880-8399\ \(1\).png);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -51,7 +52,7 @@ body:hover{
     }
     
     20%{
-        background-image: url(/bg/bgk/windows-11-dark-background-bloom-5k-5120x2880-8399\ \(1\).png);
+        background-image: url(bg/bgk/windows-11-dark-background-bloom-5k-5120x2880-8399\ \(1\).png);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -60,7 +61,7 @@ body:hover{
     }
 
     40%{
-        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3840x2401-5668.jpg);
+        background-image: url(bg/bgk/windows-11-dark-mode-stock-official-black-background-3840x2401-5668.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -69,7 +70,7 @@ body:hover{
     }
     
     50%{
-        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3840x2401-5668.jpg);
+        background-image: url(bg/bgk/windows-11-dark-mode-stock-official-black-background-3840x2401-5668.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -78,7 +79,7 @@ body:hover{
     }
 
     60%{
-        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3841x2400-5653.jpg);
+        background-image: url(bg/bgk/windows-11-dark-mode-stock-official-black-background-3841x2400-5653.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -87,7 +88,7 @@ body:hover{
     }
     
     70%{
-        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3841x2400-5653.jpg);
+        background-image: url(bg/bgk/windows-11-dark-mode-stock-official-black-background-3841x2400-5653.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -96,7 +97,7 @@ body:hover{
     }
 
     80%{
-        background-image: url(/bg/bgk/windows-11-flow-dark-mode-dark-background-pink-3840x2160-5747.jpg);
+        background-image: url(bg/bgk/windows-11-flow-dark-mode-dark-background-pink-3840x2160-5747.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -104,7 +105,7 @@ body:hover{
           height:100%;
     }
     85%{
-        background-image: url(/bg/bgk/windows-11-flow-dark-mode-dark-background-pink-3840x2160-5747.jpg);
+        background-image: url(bg/bgk/windows-11-flow-dark-mode-dark-background-pink-3840x2160-5747.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -112,7 +113,7 @@ body:hover{
           height:100%;
     }
     90%{
-        background-image: url(/bg/bgk/windows-11-gradient-background-bloom-light-backgrounds-5k-5120x2880-8411.png);
+        background-image: url(bg/bgk/windows-11-gradient-background-bloom-light-backgrounds-5k-5120x2880-8411.png);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -120,7 +121,7 @@ body:hover{
           height:100%;
     }
     95%{
-        background-image: url(/bg/bgk/windows-11-gradient-background-bloom-light-backgrounds-5k-5120x2880-8411.png);
+        background-image: url(bg/bgk/windows-11-gradient-background-bloom-light-backgrounds-5k-5120x2880-8411.png);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -130,7 +131,7 @@ body:hover{
 
 
     100%{
-        background-image: url(/bg/bgk/windows-11-stock-oranage-abstract-white-background-3840x2400-8992.png);
+        background-image: url(bg/bgk/windows-11-stock-oranage-abstract-white-background-3840x2400-8992.png);
     
           background-position:relative;
           background-repeat: no-repeat;
@@ -142,7 +143,7 @@ body:hover{
 
 
     30%{
-        background-image: url(/bg/bgk/windows-365-windows-11-3d-background-gradient-background-3640x2048-8634.jpg);
+        background-image: url(bg/bgk/windows-365-windows-11-3d-background-gradient-background-3640x2048-8634.jpg);
     
           background-position:relative;
           background-repeat: no-repeat;
