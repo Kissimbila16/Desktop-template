@@ -1,0 +1,359 @@
+
+
+
+.body{
+       width:100vw;
+         height:100vh;
+           display:grid;
+           position:fixed;
+             animation-name: bgs;
+             animation-duration:70s;
+             animation-iteration-count:  infinite;
+   
+             background-color: #001721;
+             background-size: 100%;
+             background-image: url(/bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
+             background-position: center;
+}
+
+body:hover{
+  background-position:none;
+
+
+}
+
+  @keyframes bgs {
+    0%{
+        background-image: url(/bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+    5%{
+        background-image: url(/bg/bgk/horizon-astronaut-black-hole-astronomy-exploration-5200x3250-7569.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+
+    10%{
+        background-image: url(/bg/bgk/windows-11-dark-background-bloom-5k-5120x2880-8399\ \(1\).png);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+    
+    20%{
+        background-image: url(/bg/bgk/windows-11-dark-background-bloom-5k-5120x2880-8399\ \(1\).png);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+    40%{
+        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3840x2401-5668.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+    
+    50%{
+        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3840x2401-5668.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+    60%{
+        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3841x2400-5653.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+    
+    70%{
+        background-image: url(/bg/bgk/windows-11-dark-mode-stock-official-black-background-3841x2400-5653.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+    80%{
+        background-image: url(/bg/bgk/windows-11-flow-dark-mode-dark-background-pink-3840x2160-5747.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+    85%{
+        background-image: url(/bg/bgk/windows-11-flow-dark-mode-dark-background-pink-3840x2160-5747.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+    90%{
+        background-image: url(/bg/bgk/windows-11-gradient-background-bloom-light-backgrounds-5k-5120x2880-8411.png);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+    95%{
+        background-image: url(/bg/bgk/windows-11-gradient-background-bloom-light-backgrounds-5k-5120x2880-8411.png);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+
+    100%{
+        background-image: url(/bg/bgk/windows-11-stock-oranage-abstract-white-background-3840x2400-8992.png);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+
+
+
+    30%{
+        background-image: url(/bg/bgk/windows-365-windows-11-3d-background-gradient-background-3640x2048-8634.jpg);
+    
+          background-position:relative;
+          background-repeat: no-repeat;
+          width:100%;
+          height:100%;
+    }
+
+}
+
+.live{
+    font-size: 35px;
+    font-family: 'poppins';
+    text-align: relative;
+    font-weight: 400;
+    color:black
+}
+.tt{
+      font-size: 35px;
+      font-family: 'poppins';
+      text-align: relative;
+      font-weight: 700;
+      color:white
+}
+#menu{
+      display:flex;
+       justify-content: space-around;
+       width: 100vw;
+       height:100px;
+        align-items: center;
+        background-color:black;
+        opacity: 0.8;
+}
+
+.line{
+display: flex;
+  width:100%;
+  justify-content: space-around;
+text-align: right;
+margin-right: 20px;
+font-weight: 800;
+
+}
+
+
+.like{
+  
+  margin-left:24px;
+  font-size: 16px;
+   font-weight: 800;
+   color:white;
+
+}
+
+
+.live{color:white;
+   font-weight: 700;
+  animation:pisca 3s  infinite;}
+
+    @keyframes pisca {
+0%{
+  opacity: 0;
+
+}
+30%{
+  opacity: 0;
+  font-weight: 400;
+}
+50%{
+  opacity: 0.5;
+  font-weight: 600;
+}
+
+100%{
+  font-weight: 600;
+  opacity:1;
+
+}
+
+
+      
+    }
+
+a[class="link"],.linke:active{
+
+      margin-left: 20%;
+       font-size: 16px;
+        font-weight: 800;
+        color:white;
+   text-decoration: none;
+}
+
+
+
+
+a:active,.linke:hover{
+        color:white;    
+         font-size:18px;
+       
+}
+
+a:hover{
+  font-weight: 400;
+  color: white;
+}
+.medio{
+      display: flex;
+      width:100vw;
+      margin-top:300px;
+      justify-content: center;
+       align-items: center;
+}
+
+.botom{
+      display:flex;
+       justify-content: space-around;
+       width:100%;
+       height: 50px;
+        margin-top:18%;
+    }
+
+.preview:hover{
+  border-bottom-color: aqua;
+  border-right-color: aqua;
+  transition: border-bottom-color 3s;
+    }
+
+
+    .next:hover{
+        border-bottom-color: aqua;
+        border-relative-color: aqua;
+        transition: border-bottom-color 3s;
+          }
+      
+
+    .live:hover{
+          color:white;
+          font-weight: 700;
+    }
+
+.next,.preview{
+      width:300px;
+       border-radius: 8px;
+       color:white;
+       font-weight: 800;
+       font-size: 18px;
+       font-size: bold;
+       margin-relative: 0px;
+       border: solid 1px black;
+       background-color: transparent;
+       border-color: transparent;
+}
+
+  @media(max-windth:1200px){
+    .next,.preview{
+        display:none;
+    }
+
+  }
+
+
+  #card{
+      height: 300px;
+      margin-top: 50px;
+      opacity: 0.7;
+  }
+
+  #fullscreen{
+
+    width: 200px;
+    height: 40px;
+    margin-top:100%;
+  }
+
+  #entrada{
+      font-stretch: 400;
+      font-size: 24px;
+      font-family: 'poppins';
+     visibility: hidden;
+  }
+
+
+  #entrada:hover{
+    font-stretch: 400;
+    font-size: 24px;
+    font-family: 'poppins';
+    animation-duration: 3s;
+    animation-name: entrada1;
+    visibility: visible;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes entrada1 {
+0%{
+font-weight: 800;
+font-size: 40px;
+  
+}
+30%{
+font-weight: 800;
+font-size: 40px;
+  color: aqua;
+}
+50%{  font-weight: 800;
+  font-size: 40px;
+  color: aqua;}
+100%{
+font-weight: 800;
+font-size: 40px;
+  color: aqua;
+}
+  
+}
+
